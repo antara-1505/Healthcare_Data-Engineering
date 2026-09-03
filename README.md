@@ -18,7 +18,7 @@ The pipeline follows a layered architecture with **raw**, **refined**, and **con
 ## 🏗️ Project Structure
 
 ```
-clovertex_assignment_submission/
+Healthcare_data_engineering/
 ├── data/                           # Source datasets
 │   ├── site_alpha_patients.csv     # Patient data from Site Alpha
 │   ├── site_beta_patients.csv/.json # Patient data from Site Beta (dual format)
